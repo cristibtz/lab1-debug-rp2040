@@ -1,0 +1,1 @@
+/home/cristibtz/AMP/lab1-debug-rp2040/target/thumbv6m-none-eabi/debug/lab1-debug: /home/cristibtz/AMP/lab1-debug-rp2040/build.rs /home/cristibtz/AMP/lab1-debug-rp2040/memory.x /home/cristibtz/AMP/lab1-debug-rp2040/src/main.rs

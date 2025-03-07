@@ -1,0 +1,1 @@
+{"rustc":8277423686421874925,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[2265947032358127234,"build_script_build",false,481820616947927894]],"local":[{"RerunIfChanged":{"output":"thumbv6m-none-eabi/debug/build/rp235x-pac-a9d32e3f47758965/output","paths":["device.x","build.rs"]}}],"rustflags":[],"config":0,"compile_kind":0}

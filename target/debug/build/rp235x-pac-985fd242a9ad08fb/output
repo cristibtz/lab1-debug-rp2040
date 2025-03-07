@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/cristibtz/AMP/lab1-debug-rp2040/target/debug/build/rp235x-pac-985fd242a9ad08fb/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

@@ -1,0 +1,4 @@
+cargo:rustc-link-search=/home/cristibtz/AMP/lab1-debug-rp2040/target/thumbv6m-none-eabi/debug/build/lab1-debug-58bd6be7d71b9f4d/out
+cargo:rerun-if-changed=memory.x
+cargo:rustc-link-arg-bins=--nmagic
+cargo:rustc-link-arg-bins=-Tlink.x

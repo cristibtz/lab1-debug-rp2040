@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/cristibtz/AMP/lab1-debug-rp2040/target/debug/build/defmt-ad825e2db74d1ffe/out
+cargo:rustc-check-cfg=cfg(c_variadic)
+cargo:rustc-check-cfg=cfg(no_cas)
